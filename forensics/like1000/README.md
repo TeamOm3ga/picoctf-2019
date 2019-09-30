@@ -1,6 +1,6 @@
 # forensics / like1000
 
-Points: 250
+> Points: 250
 
 ## Question
 
