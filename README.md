@@ -77,7 +77,7 @@ For the following tables,
 
 | Name              | Points |         Done         |
 | ----------------- | -----: | :------------------: |
-| The Numbers       |     50 | :black_large_square: |
+| The Numbers       |     50 | :white_check_mark: |
 | 13                |    100 | :black_large_square: |
 | Easy1             |    100 | :black_large_square: |
 | caesar            |    100 | :black_large_square: |
