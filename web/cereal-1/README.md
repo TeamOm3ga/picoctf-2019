@@ -16,7 +16,7 @@ It turns out that `head`, `foot`, and `admin` are all valid "file"s.
 
 These files must be loading from somewhere, presumably PHP files.
 Trying to `GET` any one (for example `/admin.php`) results in the body content of that page (or in the case of `head` and `foot`, the header and footer of the pages).
-This is indicative of a Local File Injection (LFI) vulnerability.
+This is indicative of a Local File Inclusion (LFI) vulnerability.
 If we can get a PHP file somewhere on the server that the webserver can read from, it can execute arbitrary PHP code.
 We already have SSH access provided by picoCTF, so we can write to the `/tmp` directory on the server.
 

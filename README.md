@@ -71,7 +71,7 @@ For the following tables,
 | Java Script Kiddie              |    400 | :black_large_square: |
 | Java Script Kiddie 2            |    450 | :black_large_square: |
 | [cereal hacker 1](web/cereal-1) |    450 |  :white_check_mark:  |
-| cereal hacker 2                 |    500 | :black_large_square: |
+| [cereal hacker 2](web/cereal-2) |    500 |  :white_check_mark:  |
 
 ## Cryptography
 
