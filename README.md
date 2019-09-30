@@ -31,26 +31,26 @@ For the following tables,
 
 ## Forensics
 
-| Name                      | Points |         Done         |
-| ------------------------- | -----: | :------------------: |
-| Glory of the Garden       |     50 | :black_large_square: |
-| unzip                     |     50 | :black_large_square: |
-| So Meta                   |    150 | :black_large_square: |
-| What Lies Within          |    150 | :black_large_square: |
-| extensions                |    150 | :black_large_square: |
-| shark on wire 1           |    150 | :black_large_square: |
-| WhitePages                |    250 | :black_large_square: |
-| c0rrupt                   |    250 | :black_large_square: |
-| like1000                  |    250 | :black_large_square: |
-| m00nwalk                  |    250 | :black_large_square: |
-| Investigative Reversing 0 |    300 | :black_large_square: |
-| m00nwalk2                 |    300 | :black_large_square: |
-| shark on wire 2           |    300 |         :x:          |
-| Investigative Reversing 1 |    350 | :black_large_square: |
-| Investigative Reversing 2 |    350 | :black_large_square: |
-| pastaAAA                  |    350 | :black_large_square: |
-| Investigative Reversing 3 |    400 | :black_large_square: |
-| Investigative Reversing 4 |    400 |         :x:          |
+| Name                           | Points |         Done         |
+| ------------------------------ | -----: | :------------------: |
+| Glory of the Garden            |     50 | :black_large_square: |
+| unzip                          |     50 | :black_large_square: |
+| So Meta                        |    150 | :black_large_square: |
+| What Lies Within               |    150 | :black_large_square: |
+| extensions                     |    150 | :black_large_square: |
+| shark on wire 1                |    150 | :black_large_square: |
+| WhitePages                     |    250 | :black_large_square: |
+| c0rrupt                        |    250 | :black_large_square: |
+| [like1000](forensics/like1000) |    250 |  :white_check_mark:  |
+| m00nwalk                       |    250 | :black_large_square: |
+| Investigative Reversing 0      |    300 | :black_large_square: |
+| m00nwalk2                      |    300 | :black_large_square: |
+| shark on wire 2                |    300 |         :x:          |
+| Investigative Reversing 1      |    350 | :black_large_square: |
+| Investigative Reversing 2      |    350 | :black_large_square: |
+| pastaAAA                       |    350 | :black_large_square: |
+| Investigative Reversing 3      |    400 | :black_large_square: |
+| Investigative Reversing 4      |    400 |         :x:          |
 
 ## Web Exploitation
 
