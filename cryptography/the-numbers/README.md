@@ -22,4 +22,4 @@ p  i c o  c t  f { t  h e n  u  m  b e r  s  m  a s  o  n  }
 
 ### Flag
 
-`picoCTF{thenumbersmason}`
+
