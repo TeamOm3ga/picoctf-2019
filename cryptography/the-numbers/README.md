@@ -20,6 +20,8 @@ Doing this for the numbers in the picture gets:
 p  i c o  c t  f { t  h e n  u  m  b e r  s  m  a s  o  n  }
 ```
 
+Because of the hint noting how the format was `PICOCTF{}`, it insinuates that the whole flag is in uppercase letters.
+
 ### Flag
 
-
+`PICOCTF{THENUMBERSMASON}`
