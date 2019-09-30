@@ -54,24 +54,24 @@ For the following tables,
 
 ## Web Exploitation
 
-| Name                            | Points |         Done         |
-| ------------------------------- | -----: | :------------------: |
-| Insp3ct0r                       |     50 | :black_large_square: |
-| dont-use-client-side            |    100 | :black_large_square: |
-| logon                           |    100 | :black_large_square: |
-| where are the robots            |    100 | :black_large_square: |
-| Client-side-again               |    200 | :black_large_square: |
-| Open-to-admins                  |    200 | :black_large_square: |
-| picobrowser                     |    200 | :black_large_square: |
-| Irish-Name-Repo 1               |    300 | :black_large_square: |
-| Irish-Name-Repo 2               |    350 | :black_large_square: |
-| Empire1                         |    400 |         :x:          |
-| Irish-Name-Repo 3               |    400 | :black_large_square: |
-| JaWT Scratchpad                 |    400 | :black_large_square: |
-| Java Script Kiddie              |    400 | :black_large_square: |
-| Java Script Kiddie 2            |    450 | :black_large_square: |
-| [cereal hacker 1](web/cereal-1) |    450 |  :white_check_mark:  |
-| [cereal hacker 2](web/cereal-2) |    500 |  :white_check_mark:  |
+| Name                                         | Points |         Done         |
+| ---------------------------------------------| -----: | :------------------: |
+| Insp3ct0r                                    |     50 | :black_large_square: |
+| dont-use-client-side                         |    100 | :black_large_square: |
+| logon                                        |    100 | :black_large_square: |
+| where are the robots                         |    100 | :black_large_square: |
+| Client-side-again                            |    200 | :black_large_square: |
+| Open-to-admins                               |    200 | :black_large_square: |
+| picobrowser                                  |    200 | :black_large_square: |
+| Irish-Name-Repo 1                            |    300 | :black_large_square: |
+| Irish-Name-Repo 2                            |    350 | :black_large_square: |
+| Empire1                                      |    400 |         :x:          |
+| Irish-Name-Repo 3                            |    400 | :black_large_square: |
+| JaWT Scratchpad                              |    400 | :black_large_square: |
+| Java Script Kiddie                           |    400 | :black_large_square: |
+| Java Script Kiddie 2                         |    450 | :black_large_square: |
+| [cereal hacker 1](web-exploitation/cereal-1) |    450 |  :white_check_mark:  |
+| [cereal hacker 2](web-exploitation/cereal-2) |    500 |  :white_check_mark:  |
 
 ## Cryptography
 
