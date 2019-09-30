@@ -75,22 +75,22 @@ For the following tables,
 
 ## Cryptography
 
-| Name              | Points |         Done         |
-| ----------------- | -----: | :------------------: |
-| The Numbers       |     50 | :white_check_mark: |
-| 13                |    100 | :black_large_square: |
-| Easy1             |    100 | :black_large_square: |
-| caesar            |    100 | :black_large_square: |
-| Flags             |    200 | :black_large_square: |
-| Mr-Worldwide      |    200 | :black_large_square: |
-| Tapping           |    200 | :black_large_square: |
-| la cifra de       |    200 | :black_large_square: |
-| rsa-pop-quiz      |    200 | :black_large_square: |
-| miniRSA           |    300 | :black_large_square: |
-| waves over lambda |    300 | :black_large_square: |
-| AES-ABC           |    400 |         :x:          |
-| b00tl3gRSA2       |    400 | :black_large_square: |
-| b00tl3gRSA3       |    450 |         :x:          |
+| Name                                   | Points |         Done         |
+| -------------------------------------- | -----: | :------------------: |
+| [The Numbers](cryptography/the-numbers)|     50 |  :white_check_mark:  |
+| 13                                     |    100 | :black_large_square: |
+| Easy1                                  |    100 | :black_large_square: |
+| caesar                                 |    100 | :black_large_square: |
+| Flags                                  |    200 | :black_large_square: |
+| Mr-Worldwide                           |    200 | :black_large_square: |
+| Tapping                                |    200 | :black_large_square: |
+| la cifra de                            |    200 | :black_large_square: |
+| rsa-pop-quiz                           |    200 | :black_large_square: |
+| miniRSA                                |    300 | :black_large_square: |
+| waves over lambda                      |    300 | :black_large_square: |
+| AES-ABC                                |    400 |         :x:          |
+| b00tl3gRSA2                            |    400 | :black_large_square: |
+| b00tl3gRSA3                            |    450 |         :x:          |
 
 ## Binary Exploitation
 
