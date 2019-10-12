@@ -55,7 +55,7 @@ For the following tables,
 ## Web Exploitation
 
 | Name                                         | Points |         Done         |
-| ---------------------------------------------| -----: | :------------------: |
+| -------------------------------------------- | -----: | :------------------: |
 | Insp3ct0r                                    |     50 | :black_large_square: |
 | dont-use-client-side                         |    100 | :black_large_square: |
 | logon                                        |    100 | :black_large_square: |
@@ -65,32 +65,35 @@ For the following tables,
 | picobrowser                                  |    200 | :black_large_square: |
 | Irish-Name-Repo 1                            |    300 | :black_large_square: |
 | Irish-Name-Repo 2                            |    350 | :black_large_square: |
-| Empire1                                      |    400 |         :x:          |
+| Empire1                                      |    400 | :black_large_square: |
 | Irish-Name-Repo 3                            |    400 | :black_large_square: |
 | JaWT Scratchpad                              |    400 | :black_large_square: |
 | Java Script Kiddie                           |    400 | :black_large_square: |
+| Empire2                                      |    450 | :black_large_square: |
 | Java Script Kiddie 2                         |    450 | :black_large_square: |
 | [cereal hacker 1](web-exploitation/cereal-1) |    450 |  :white_check_mark:  |
+| Empire3                                      |    500 | :black_large_square: |
 | [cereal hacker 2](web-exploitation/cereal-2) |    500 |  :white_check_mark:  |
 
 ## Cryptography
 
-| Name                                   | Points |         Done         |
-| -------------------------------------- | -----: | :------------------: |
-| [The Numbers](cryptography/the-numbers)|     50 |  :white_check_mark:  |
-| 13                                     |    100 | :black_large_square: |
-| Easy1                                  |    100 | :black_large_square: |
-| caesar                                 |    100 | :black_large_square: |
-| Flags                                  |    200 | :black_large_square: |
-| Mr-Worldwide                           |    200 | :black_large_square: |
-| Tapping                                |    200 | :black_large_square: |
-| la cifra de                            |    200 | :black_large_square: |
-| rsa-pop-quiz                           |    200 | :black_large_square: |
-| miniRSA                                |    300 | :black_large_square: |
-| waves over lambda                      |    300 | :black_large_square: |
-| AES-ABC                                |    400 |         :x:          |
-| b00tl3gRSA2                            |    400 | :black_large_square: |
-| b00tl3gRSA3                            |    450 |         :x:          |
+| Name                                    | Points |         Done         |
+| --------------------------------------- | -----: | :------------------: |
+| [The Numbers](cryptography/the-numbers) |     50 |  :white_check_mark:  |
+| 13                                      |    100 | :black_large_square: |
+| Easy1                                   |    100 | :black_large_square: |
+| caesar                                  |    100 | :black_large_square: |
+| Flags                                   |    200 | :black_large_square: |
+| Mr-Worldwide                            |    200 | :black_large_square: |
+| Tapping                                 |    200 | :black_large_square: |
+| la cifra de                             |    200 | :black_large_square: |
+| rsa-pop-quiz                            |    200 | :black_large_square: |
+| miniRSA                                 |    300 | :black_large_square: |
+| waves over lambda                       |    300 | :black_large_square: |
+| AES-ABC                                 |    400 | :black_large_square: |
+| b00tl3gRSA2                             |    400 | :black_large_square: |
+| b00tl3gRSA3                             |    450 | :black_large_square: |
+| john_pollard                            |    500 | :black_large_square: |
 
 ## Binary Exploitation
 
