@@ -56,7 +56,7 @@ For the following tables,
 
 | Name                                         | Points |         Done         |
 | -------------------------------------------- | -----: | :------------------: |
-| Insp3ct0r                                    |     50 | :black_large_square: |
+| [Insp3ct0r](web-exploitation/Insp3ct0r)      |     50 |  :white_check_mark:  |
 | dont-use-client-side                         |    100 | :black_large_square: |
 | logon                                        |    100 | :black_large_square: |
 | where are the robots                         |    100 | :black_large_square: |
