@@ -1,6 +1,7 @@
 # general / 2Warm
 
-> Points: 50
+> Points: 50 \
+> previous warm | [next warm](../LetsWarmUp)
 
 ## Question
 
